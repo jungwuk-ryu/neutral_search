@@ -1,7 +1,10 @@
-# neutral_search
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
+# neutral_search
+
 중립적인 정보 검색
+
+<img src="./img/app_screenshot.png" width="40%" height="40%">
 
 ## 프로젝트 설명
 
