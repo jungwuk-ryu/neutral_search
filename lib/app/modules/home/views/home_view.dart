@@ -67,6 +67,7 @@ class HomeView extends GetView<HomeController> {
                   Expanded(
                       child: TextField(
                         controller: controller.searchTextFieldController,
+                        onTapOutside: (event) => FocusScope.of(Get.context!).unfocus(),
                         decoration: const InputDecoration(
                             border: InputBorder.none,
                             hintText: "검색어 입력",
